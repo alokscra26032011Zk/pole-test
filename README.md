@@ -1,10 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 
-## Available Scripts
+## Running the project
 
-In the project directory, you can run:
+Clone the repo.
 
+Once in the project directory, you can run:
+### `npm install`
+to install the modules.
+
+After installation of modules, you can run: 
 ### `npm start`
 
 Runs the app in the development mode.<br>
